@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Duolingo Goal Page** app:
 
-<img src='https://i.imgur.com/abcdefg.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://miro.medium.com/v2/resize:fit:720/format:webp/1*-JXzuR-cUs2Osz7POelvPg.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Video Demo
 
